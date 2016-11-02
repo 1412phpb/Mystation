@@ -11,5 +11,10 @@ class UsersController extends Controller
 	{
 		echo 1;
 	}
+	
+	public function select()
+	{
+		echo 2;
+	}
 }
 ?>
