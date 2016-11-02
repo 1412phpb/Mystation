@@ -7,6 +7,9 @@ use yii\data\Pagination;
 
 class UsersController extends Controller
 {
-
+	public function add()
+	{
+		echo 1;
+	}
 }
 ?>
